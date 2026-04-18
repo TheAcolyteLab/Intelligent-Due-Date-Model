@@ -1,0 +1,23 @@
+[
+  "priority",
+  "complexity",
+  "task_type",
+  "assignee_load",
+  "project_velocity",
+  "team_size",
+  "days_in_backlog",
+  "inventory_blocked",
+  "inventory_delay_days",
+  "num_dependencies",
+  "dependency_delay",
+  "day_of_week",
+  "sprint_day",
+  "team_type",
+  "load_per_velocity",
+  "complexity_per_teammate",
+  "priority_x_complexity",
+  "inventory_x_delay",
+  "deps_x_complexity",
+  "is_friday_start",
+  "is_sprint_end"
+]
